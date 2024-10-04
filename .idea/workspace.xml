@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b887dc1f-4d30-4b76-915a-2bb3faafb007" name="Changes" comment="This is the initial commit to github">
-      <change afterPath="$PROJECT_DIR$/Initial.py" afterDir="false" />
+    <list default="true" id="b887dc1f-4d30-4b76-915a-2bb3faafb007" name="Changes" comment="This is a second test commit">
+      <change afterPath="$PROJECT_DIR$/another_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Initial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728077070113</updated>
-      <workItem from="1728077072228" duration="399000" />
+      <workItem from="1728077072228" duration="981000" />
     </task>
     <task id="LOCAL-00001" summary="This is the initial commit to github">
       <option name="closed" value="true" />
@@ -82,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728077307412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is a second test commit">
+      <option name="closed" value="true" />
+      <created>1728077479090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728077479090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the initial commit to github" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the initial commit to github" />
+    <MESSAGE value="This is a second test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a second test commit" />
   </component>
 </project>
