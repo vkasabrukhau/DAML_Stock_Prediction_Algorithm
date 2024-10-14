@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b887dc1f-4d30-4b76-915a-2bb3faafb007" name="Changes" comment="This is a second test commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lstm-model-0.py" beforeDir="false" afterPath="$PROJECT_DIR$/lstm-model-0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yfinance_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/yfinance_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
