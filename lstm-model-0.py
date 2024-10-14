@@ -5,7 +5,7 @@
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as pltg
 from sklearn.preprocessing import MinMaxScaler
 from keras import Sequential
 from keras import layers
